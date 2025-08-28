@@ -56,14 +56,11 @@ mse=mean_squared_error(Y_test,Y_pred)
 print("Mean Square Error:",mse)
 print("\nPredictions:\n",Y_pred[:5])
 
-
-
 ```
 
 ## Output:
 
 <img width="358" height="173" alt="Screenshot 2025-08-28 140638" src="https://github.com/user-attachments/assets/9a7da93f-8c34-4bf2-a7d5-841aab3ab6bd" />
-
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
